@@ -26,7 +26,7 @@ const rizz = {
   name:     "Tanmoy Pramanik",
   alias:    "Rizz / Radhium",
   location: "Kolkata, West Bengal 🇮🇳",
-  started:  "December 2024",
+  started:  "December 2025",
   focus:    ["Frontend Dev", "Micro SaaS", "Shipping real things"],
   currently: {
     building: ["WindConvert ⚡", "BREVI 🔒"],
@@ -91,7 +91,7 @@ Details soon. Watch this space.
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║  Started from zero — no CS degree, no bootcamp.             ║
-║  December 2024: first line of HTML.                         ║
+║  December 2025: first line of HTML.                         ║
 ║  March 2026: shipping full-stack apps with auth, file       ║
 ║  processing, and live deployments.                          ║
 ║                                                             ║
@@ -106,9 +106,9 @@ Details soon. Watch this space.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Radhium&show_icons=true&hide_border=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00FFB3&icon_color=00FFB3&text_color=ffffff&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Radhium&show_icons=true&hide_border=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00FFB3&icon_color=00FFB3&text_color=ffffff&count_private=true&include_all_commits=true)
 &nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Radhium&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00FFB3&text_color=ffffff&count_private=true)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Radhium&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00FFB3&text_color=ffffff&count_private=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Radhium&theme=dark&hide_border=true&background=0D1117&ring=00FFB3&fire=FF6B6B&currStreakLabel=00FFB3&count_private=true)](https://git.io/streak-stats)
 
