@@ -108,7 +108,7 @@ Details soon. Watch this space.
 
 ![GitHub Stats](https://github-readme-stats-three-nu-vrl6tzh3co.vercel.app/api?username=Radhium&show_icons=true&hide_border=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00FFB3&icon_color=00FFB3&text_color=ffffff&count_private=true&include_all_commits=true&hide=contribs,issues)
 &nbsp;&nbsp;
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Radhium&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00FFB3&text_color=ffffff&count_private=true)
+![Top Languages](https://github-readme-stats-three-nu-vrl6tzh3co.vercel.app/api/top-langs/?username=Radhium&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00FFB3&text_color=ffffff&count_private=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Radhium&theme=dark&hide_border=true&background=0D1117&ring=00FFB3&fire=FF6B6B&currStreakLabel=00FFB3&count_private=true)](https://git.io/streak-stats)
 
